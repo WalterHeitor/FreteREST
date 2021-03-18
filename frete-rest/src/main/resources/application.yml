@@ -1,6 +1,7 @@
 micronaut:
   application:
     name: freteRest
+<<<<<<< HEAD
 grpc:
   client:
     plaintext: true
@@ -10,3 +11,5 @@ grpc:
       address: "localhost:50051"
       plaintext: true
       max-retry-attemps: 10
+=======
+>>>>>>> origin/main
